@@ -1,3 +1,10 @@
+/* 
+ Project: Netflix Clone Web-Page Using HTML and CSS
+  Author: Vinay Mahendre
+  Date: 2025
+  Description: This is a frontend web page designed to showcase HTML & CSS skills. This project is inspired by Netflix and aims to replicate its UI.
+*/
+
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Martel+Sans:wght@900&display=swap");
 
@@ -5,7 +12,7 @@
   margin: 0;
   padding: 0;
 }
-
+/* Code written by Vinay Mahendre */
 .Home {
   background-image: url(assets/images/back1.jpg);
   background-position: center center;
@@ -16,7 +23,7 @@
   position: relative;
   border-bottom: 5px solid grey;
 }
-
+/* Code written by Vinay Mahendre */
 .Home .opacity-box {
   background-color: rgba(0, 0, 0, 0.731);
   height: 1080px;
@@ -61,7 +68,7 @@ div > nav > span > img {
   /* color: rgb(255, 0, 0); */
   margin-top: 12px;
 }
-
+/* Code written by Vinay Mahendre */
 #lang-button {
   background-color: rgba(0, 0, 0, 0.427);
   color: rgb(255, 255, 255);
@@ -101,7 +108,6 @@ div > nav > span > img {
 }
 
 .arrow {
-  /* border: 1px solid red; */
   position: relative;
   bottom: 20px;
   height: 24px;
@@ -116,8 +122,6 @@ select > option {
 }
 
 li > button {
-  /* position: relative;
-    z-index: 10; */
   width: 76px;
   height: 36px;
   border-radius: 5px;
@@ -174,7 +178,7 @@ li > button {
   gap: 10px;
   margin-top: 15px;
 }
-
+/* Code written by Vinay Mahendre */
 #email {
   width: 366px;
   height: 56px;
@@ -203,10 +207,8 @@ li > button {
   height: 70vh;
   background-color: black;
   color: white;
-  /* border-bottom: 5px solid grey; */
-  /* removed After working...!*/
 }
-
+/* Code written by Vinay Mahendre */
 .name {
   display: flex;
   justify-content: space-between;
@@ -275,9 +277,7 @@ li > button {
   left: 30px;
   top: 12px;
   -webkit-text-stroke: 3px rgb(255, 255, 255);
-  /* bottom: 2px; */
   font-family: "Poppins";
-  /* height: 12px; */
   padding-top: 125px;
 }
 
@@ -300,8 +300,8 @@ li > button {
 .first h3 {
   font-family: "roboto", sans-serif;
   font-size: 24px;
-  /* font-weight: 500; */
 }
+/* Code written by Vinay Mahendre */
 .second {
   width: 80vw;
   height: 300px;
@@ -313,13 +313,12 @@ li > button {
   margin-top: 12px;
 }
 .second div {
-  /* background-color: #192247; */
   background: linear-gradient(137deg, #192247 0%, #210e17 96.86%);
   width: 293px;
   height: 270px;
   border-radius: 10px;
 }
-
+/* Code written by Vinay Mahendre */
 .second .a h3 {
   width: 190px;
   height: 30px;
@@ -375,7 +374,7 @@ li > button {
   font-size: 16px;
   padding: 10px 0px 0px 20px;
 }
-
+/* Code written by Vinay Mahendre */
 .second .d p {
   width: 261px;
   height: 60px;
@@ -414,7 +413,7 @@ li > button {
   align-items: center;
   gap: 12px;
 }
-
+/* Code written by Vinay Mahendre */
 #last-email {
   width: 561px;
   height: 56px;
@@ -437,7 +436,7 @@ li > button {
   cursor: pointer;
 }
 
-/* this..s..last box */
+/* this..is..last box */
 
 .footer {
   height: 65vh;
@@ -512,5 +511,5 @@ li > button {
   font-weight: 400;
   font-size: 16px;
 }
-
+/* Code written by Vinay Mahendre */
 /* the end...! */
