@@ -26,6 +26,8 @@ Want to see Netflix-UI? [Check it out here](https://vinaymahendre.github.io/Netf
 
 This project is **non-commercial** and created **only for skill demonstration purposes**. Some images used belong to their respective owners, and this project does not claim any official association with Netflix.
 
+DISCLAIMER: THIS PAGE WAS MADE AS A PERSONAL EDUCATIONAL PROJECT. This is NOT the official site of the company or brand identified on the page. The creator of this page is NOT affiliated with the company or brand in any way. This page is a personal project made in connection with an educational exercise.
+
 ## 👨‍💻 Creator
 
 Developed by **Vinay Mahendre** to demonstrate frontend development skills.
