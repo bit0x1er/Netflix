@@ -4,7 +4,7 @@ This is a **frontend web page** designed to showcase **HTML & CSS** skills. This
 
 
 ## 🌐 Live Demo
-Want to see Netflix-UI? [Check it out here](https://vinaymahendre.github.io/Netflix/)
+Want to see Netflix-UI? [Check it out here](https://bit0x1er.github.io/Netflix-Clone-Educational/)
 
 
 ## ✨ Features
